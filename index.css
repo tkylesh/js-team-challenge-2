@@ -1,0 +1,35 @@
+div#red{
+	background-color: red;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border: 2px solid gray;
+}
+div#yellow{
+	background-color: yellow;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border: 2px solid gray;
+}
+div#green{
+	background-color: green;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border: 2px solid gray;
+}
+
+div:hover{
+	cursor: pointer;
+}
+
+div:visited{
+	border: 2px solid dodgerblue;
+}
