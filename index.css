@@ -5,7 +5,7 @@ div#red{
 	width: 200px;
 	margin-top:20px;
 	margin-bottom:20px;
-	border: 2px solid gray;
+	
 }
 div#yellow{
 	background-color: yellow;
@@ -14,7 +14,7 @@ div#yellow{
 	width: 200px;
 	margin-top:20px;
 	margin-bottom:20px;
-	border: 2px solid gray;
+	
 }
 div#green{
 	background-color: green;
@@ -23,11 +23,13 @@ div#green{
 	width: 200px;
 	margin-top:20px;
 	margin-bottom:20px;
-	border: 2px solid gray;
+	
 }
+
 
 div:hover{
 	cursor: pointer;
+	border: 2px solid dodgerblue;
 }
 
 div:visited{
